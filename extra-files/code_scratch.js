@@ -23,7 +23,7 @@
 
 
 //if only passing one (and only works for cases of 1 param)
-// parantheses can be removed
+// parentheses can be removed
 // const printMyName = name => {
 //   console.log(name);
 // }
